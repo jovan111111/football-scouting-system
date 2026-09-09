@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/ScoutBoard.Api/ScoutBoard.Api.csproj" />
+    <Project Path="backend/ScoutBoard.Tests/ScoutBoard.Tests.csproj" />
+  </Folder>
+</Solution>
