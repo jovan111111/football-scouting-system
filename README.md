@@ -1,6 +1,6 @@
 # ScoutBoard
 
-[![CI](https://github.com/jovan111111/scoutboard/actions/workflows/ci.yml/badge.svg)](https://github.com/jovan111111/scoutboard/actions/workflows/ci.yml)
+[![CI](https://github.com/jovan111111/football-scouting-system/actions/workflows/ci.yml/badge.svg)](https://github.com/jovan111111/football-scouting-system/actions/workflows/ci.yml)
 [![.NET](https://img.shields.io/badge/.NET-10-512BD4)](https://dotnet.microsoft.com/)
 [![React](https://img.shields.io/badge/React-19-61DAFB)](https://react.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -98,7 +98,7 @@ User
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/jovan111111/scoutboard.git
+git clone https://github.com/jovan111111/football-scouting-system.git
 cd scoutboard
 ```
 
