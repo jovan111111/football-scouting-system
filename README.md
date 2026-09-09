@@ -99,7 +99,7 @@ User
 
 ```bash
 git clone https://github.com/jovan111111/football-scouting-system.git
-cd scoutboard
+cd football-scouting-system
 ```
 
 ### 2. Start the API
